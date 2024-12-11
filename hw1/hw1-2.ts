@@ -262,6 +262,7 @@ console.log(y);
 interface ICourse {
     title: string;
     monthDuration: number;
+    id? : number;
 }
 
 let coursesAndDurationArray: Array<ICourse> = [
