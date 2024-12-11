@@ -4,7 +4,7 @@
  Вивести кожну змінну за допомогою: console.log
  **/
 
-const str: string = 'hello';
+const str1: string = 'hello';
 const str2: string = 'owu';
 const str3: string = 'com';
 const str4: string = 'ua';
@@ -17,7 +17,7 @@ const num6: number = 2.7;
 const num7: number = 16;
 const bl: boolean = true;
 const bl2: boolean = false;
-console.log(str, str2, str3, str4, num, num2, num3, num4, num5, num6, num7, bl, bl2);
+console.log(str1, str2, str3, str4, num, num2, num3, num4, num5, num6, num7, bl, bl2);
 
 /**
  #6Qb97gsv
@@ -32,13 +32,13 @@ const person: string = `${firstName} ${middleName} ${lastName}`
 /**
  #4N0y5tufA
  За допомогою оператора typeof визначити типи наступних змінних та вивести їх в консоль.
- let a = 100; let b = '100'; let c = true;
+ let d = 100; let f = '100'; let e = true;
  **/
 
-let a: number = 100;
-let b: string = '100';
-let c: boolean = true;
-console.log(typeof a, typeof b, typeof c);
+let d: number = 100;
+let f: string = '100';
+let e: boolean = true;
+console.log(typeof d, typeof f, typeof e);
 
 /**
  #ruUtWDUI
